@@ -1,0 +1,25 @@
+{
+  "name": "uwss-logger",
+  "version": "0.1.0",
+  "description": "A simple Node logger.",
+  "main": "src/logger.js",
+  "scripts": {
+    "test": "node test/runtests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uwss/logger.git"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "dependencies": {
+    "format-parser": "uwss/format-parser"
+  },
+  "author": "Adrian Gjerstad",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/uwss/logger/issues"
+  },
+  "homepage": "https://github.com/uwss/logger#readme"
+}
